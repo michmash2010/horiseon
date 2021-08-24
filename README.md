@@ -13,7 +13,7 @@ features like semantic HTML5 tags and image tag alt attributes for accessibility
 It also demonstrates consolidated CSS styling.
 
 ## Horiseon Webpage Screenshot
-![A screenshot of the finished Horiseon webpage, zoomed-out to show full length and layout formatting, after refactoring](./Assets/Images/Horiseon_Website_Screenshot.PNG)
+![A screenshot of the finished Horiseon webpage, zoomed-out to show full length and layout formatting, after refactoring](./assets/images/Horiseon_Website_Screenshot.PNG)
 
 ## Link
 <https://michmash2010.github.io/horiseon/>
