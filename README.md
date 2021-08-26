@@ -1,6 +1,9 @@
 # Challenge 1: Code Refactor - Horiseon Webpage
 for UCF Coding Bootcamp
 
+## Link to the Live Page
+<https://michmash2010.github.io/horiseon/>
+
 ## Credits
 Starter Code for this project was written by Xander Rapstine, known on GitHub as Xandromus.  
 Visit Xander's GitHub Page: <https://github.com/Xandromus>
@@ -15,5 +18,3 @@ It also demonstrates consolidated CSS styling.
 ## Horiseon Webpage Screenshot
 ![A screenshot of the finished Horiseon webpage, zoomed-out to show full length and layout formatting, after refactoring](./assets/images/Horiseon_Website_Screenshot.PNG)
 
-## Link
-<https://michmash2010.github.io/horiseon/>
